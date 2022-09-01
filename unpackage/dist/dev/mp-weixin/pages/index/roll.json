@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "吃吃吃",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "lucky-wheel": "/components/@lucky-canvas/uni/lucky-wheel",
+    "lucky-grid": "/components/@lucky-canvas/uni/lucky-grid"
+  }
+}

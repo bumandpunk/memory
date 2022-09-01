@@ -1,0 +1,71 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	},
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	    ,{
+            "path" : "pages/index/message",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "备忘录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/tree",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "许愿树",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/roll",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "吃吃吃",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#333333",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [
+			{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/首页1.png",
+			"selectedIconPath": "static/首页.png",
+			"text": "首页"
+		}, 
+		
+		{
+			"pagePath": "pages/my/index",
+			"iconPath": "static/我的1.png",
+			"selectedIconPath": "static/我的.png",
+			"text": "我的"
+		}]
+	}
+}

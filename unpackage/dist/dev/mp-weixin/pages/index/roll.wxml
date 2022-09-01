@@ -1,0 +1,1 @@
+<view><lucky-wheel class="roll vue-ref" vue-id="21e74393-1" width="600rpx" height="600rpx" blocks="{{blocks}}" prizes="{{prizes}}" buttons="{{buttons}}" defaultStyle="{{defaultStyle}}" data-ref="luckyWheel" data-event-opts="{{[['^start',[['startCallBack']]],['^end',[['endCallBack']]]]}}" bind:start="__e" bind:end="__e" bind:__l="__l"></lucky-wheel></view>

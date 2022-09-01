@@ -1,0 +1,52 @@
+{
+  "_from": "@lucky-canvas/uni@latest",
+  "_id": "@lucky-canvas/uni@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-Q9jOpcGPPBQDQBPtf4Q4YUSluUt39RqAkbfSsuO+06iJqi47LH9M6PGX5U7+wZDOIFMGRNwpFcsfejmP/4RLxQ==",
+  "_location": "/@lucky-canvas/uni",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@lucky-canvas/uni@latest",
+    "name": "@lucky-canvas/uni",
+    "escapedName": "@lucky-canvas%2funi",
+    "scope": "@lucky-canvas",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@lucky-canvas/uni/-/uni-0.0.4.tgz",
+  "_shasum": "778fd15fcaae3326aa4d21201eca13ca6b102a2c",
+  "_spec": "@lucky-canvas/uni@latest",
+  "_where": "/Users/ldq/Desktop/creep-cube/22222",
+  "author": {
+    "name": "ldq",
+    "email": "ldq404@qq.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lucky-canvas": "~1.7.5"
+  },
+  "deprecated": false,
+  "description": "uni-app【大转盘 / 九宫格 / 老虎机】抽奖插件",
+  "files": [
+    "lucky-wheel.vue",
+    "lucky-grid.vue",
+    "utils.js",
+    "demo.vue"
+  ],
+  "keywords": [
+    "uni-app抽奖"
+  ],
+  "license": "Apache-2.0",
+  "name": "@lucky-canvas/uni",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
