@@ -1,1 +1,2 @@
 # memory
+需自行配置wx小程序appid及关联unicloud服务空间并上传云函数及表结构
